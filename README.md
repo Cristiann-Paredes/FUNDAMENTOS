@@ -1,0 +1,6 @@
+Cristian Paredes 
+
+# FUNDAMENTOS
+
+
+
