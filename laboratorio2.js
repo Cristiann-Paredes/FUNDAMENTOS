@@ -19,6 +19,7 @@ console.log(Cancion.repeat(2))//Repetir la cadena
 console.log(Cancion.split(" "))//dividir la cadena en un array
 
 
+
 //template: crear una cadena con diferentes tipos de datos
 console.log(`Durante el viaje de ${tiempo_Viaje} escuche${Cancion}`)
 
