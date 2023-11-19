@@ -5,6 +5,7 @@ let Fecha_actual = 23-6-2023
 const año = 2023
 
 
+
 //String
 let Cancion = "  Sweet Dreams - Marilyn Manson  "
 console.log(Cancion.length) //numero de letras 
